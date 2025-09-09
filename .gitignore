@@ -41,3 +41,10 @@ Thumbs.db
 # Data files with sensitive information
 Data_*
 Notes
+*.csv
+*.json
+*.xlsx
+*.xls
+*.txt
+!requirements.txt
+!README.txt
